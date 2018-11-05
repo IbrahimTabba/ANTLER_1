@@ -1,0 +1,9 @@
+from ;
+
+select;
+
+select from ;
+
+select * from ;
+
+select xx from xxx having xx > 10 ;
